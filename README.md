@@ -89,7 +89,8 @@ https://dummyjson.com/quotes/random
 
 ## Despliegue
 
-Enlace de producción: Pendiente de publicación.
+La aplicación se encuentra publicada en Vercel. 
+Enlace de producción: fitcenter-vue.vercel.app
 
 ## Información académica
 
